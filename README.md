@@ -1,0 +1,1 @@
+<h1> Página teste incuindo uma imagem do tipo SVG.<h1>
